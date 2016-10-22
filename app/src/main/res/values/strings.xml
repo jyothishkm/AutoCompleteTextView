@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AutoCompleteTextView</string>
+    <string name="text">"Auto complete text view"</string>
+    <string name="button">"OK"</string>
+</resources>
